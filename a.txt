@@ -1,0 +1,20 @@
+<!--<div class="row">
+  		<h1 style="text-align:center;">HOW IT WORKS - SIMPLE AS 1,2,3</h1>
+  	</div>
+  	<br><br>
+  	<div class="row">
+  		<div class="col-sm-6">
+  			<img src="img6.jpg">
+  		</div>
+  		<div class="col-sm-1">
+  			<span class="asd">1</span>
+  			<span class="asd">2</span>
+  			<span class="asd">3</span>
+  		</div>
+  		<div class="col-sm-5">
+  			<p> Choose the subscription plan that best fits your <br>needs and sign up today.</p>
+  			 <p>Order your delicious meal using our Website.You Can even Call Us</p>
+  			<p> Enjoy your meal after less than 20 minutes.See you next time ! </p>
+  		</div>
+
+  	</div>-->
